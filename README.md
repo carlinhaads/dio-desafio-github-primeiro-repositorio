@@ -1,4 +1,4 @@
 # Desafio Git/GitHub
-dio-desafio-github-primeiro-repositorio
+Repositório criado para o desafio de projeto
 
-[Links Úteis](https://www.dio.me/)
+## [Links Úteis](https://www.dio.me/)
